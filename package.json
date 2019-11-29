@@ -1,0 +1,14 @@
+{
+  "name": "new_feed_app",
+  "version": "1.0.0",
+  "description": "Local new feed app",
+  "author": "Hashith Karunarathne <hashithkarunarathne@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "rss-feed-emitter": "^2.0.1"
+  }
+}
